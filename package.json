@@ -1,7 +1,7 @@
 {
-  "name": "hierarchic-heatmap-table-component",
-  "version": "0.0.1",
-  "description": "A visualisation tool for displaying rows in a hiearchic manner with heatmap capabilities ",
+  "name": "expression-viewer",
+  "version": "0.0.0",
+  "description": "A viewer for human body expression",
   "main": "index.js",
   "directories": {
     "doc": "doc",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calipho-sib/hierarchic-heatmap-table-component.git"
+    "url": "git+https://github.com/calipho-sib/protein-expression.git"
   },
   "keywords": [
     "nextprot",
@@ -25,9 +25,9 @@
   ],
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/calipho-sib/hierarchic-heatmap-table-component/issues"
+    "url": "https://github.com/calipho-sib/protein-expression/issues"
   },
-  "homepage": "https://github.com/calipho-sib/hierarchic-heatmap-table-component/#readme",
+  "homepage": "https://github.com/calipho-sib/protein-expression#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-concat": "^1.0.1",
@@ -41,7 +41,6 @@
     "qunitjs": "^2.0.0",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1",
-
     "babel-core": "^6.7.0",
     "babel-loader": "^6.2.4",
     "babel-plugin-transform-react-display-name": "^6.5.0",
